@@ -128,7 +128,13 @@ Os dados utilizados neste dashboard foram obtidos a partir do seguinte arquivo C
 [![YouTube](https://img.shields.io/badge/YouTube-Canal%20Oficial-red?style=flat-square&logo=youtube)](https://www.youtube.com/@AlanSilva-zg6ui)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repositórios%20Públicos-black?style=flat-square&logo=github)](https://github.com/Alan-0718-sj)
- 
+
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 <p align="center">Feito com 💙 e muito código por Alan Silva</p>
